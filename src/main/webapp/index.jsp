@@ -20,8 +20,8 @@
 </head>
 <body>
     <div class="centered-content">
-        <h1>Login</h1>
-    <form action="https://docs.google.com/document/d/1L9o0dDSGCeCoCRLOwcPVxOGNSxaa7vno/edit?usp=drive_link&ouid=105848860579749989561&rtpof=true&sd=true" method="post">
+        <h1>*** Login ***</h1>
+    <form action="https://github.com/Udaychinnala/maven-web-app.git" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>
         
